@@ -1,0 +1,1 @@
+https://dev.to/cryogenicplanet/an-actual-complete-guide-to-typescript-monorepos-240l
